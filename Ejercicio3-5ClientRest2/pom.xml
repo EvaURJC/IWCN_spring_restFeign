@@ -17,12 +17,6 @@
 	</properties>
 
 	<dependencies>
-		<!-- Retrofit client -->
-		<dependency>
-			<groupId>com.squareup.retrofit</groupId>
-			<artifactId>retrofit</artifactId>
-			<version>1.9.0</version>
-		</dependency>
 		<!-- Feign client -->
 		 <dependency>
 			<groupId>io.github.openfeign</groupId>
